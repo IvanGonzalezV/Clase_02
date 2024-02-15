@@ -12,4 +12,4 @@ La aplicación de Gestión de Productos está diseñada para ayudar a los usuari
 2. [Contribución](#contribución)
 
 ```bash
-git clone <URL_del_repositorio>
+git clone [<URL_del_repositorio>](https://github.com/IvanGonzalezV/Clase_02/tree/main)https://github.com/IvanGonzalezV/Clase_02/tree/main
